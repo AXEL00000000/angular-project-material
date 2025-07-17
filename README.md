@@ -2,28 +2,6 @@
 
 Este repositorio contiene ejemplos de uso de diversos componentes de Angular Material, cada uno implementado en su propio componente con selector correspondiente. A continuación se presenta la estructura del README, que explica el propósito y funcionamiento de cada componente:
 
----
-
-### Índice
-
-1. [app-mat-autocomplete](#app-mat-autocomplete)
-2. [app-badge](#app-badge)
-3. [app-bottomsheet](#app-bottomsheet)
-4. [app-button](#app-button)
-5. [app-buttontoggle](#app-buttontoggle)
-6. [app-card](#app-card)
-7. [app-checkbox](#app-checkbox)
-8. [app-chips](#app-chips)
-9. [app-dialog](#app-dialog)
-10. [app-divider](#app-divider)
-11. [app-icon](#app-icon)
-12. [app-gridlist](#app-gridlist)
-13. [app-datepicker](#app-datepicker)
-14. [app-panel](#app-panel)
-15. [app-table](#app-table)
-
----
-
 ### 1. `<app-mat-autocomplete>`
 
 **Descripción:**
