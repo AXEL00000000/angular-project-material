@@ -1,4 +1,4 @@
-## Proyecto de Demostración de Angular Material
+## Angular Material
 
 Este repositorio contiene ejemplos de uso de diversos componentes de Angular Material, cada uno implementado en su propio componente con selector correspondiente. A continuación se presenta la estructura del README, que explica el propósito y funcionamiento de cada componente:
 
